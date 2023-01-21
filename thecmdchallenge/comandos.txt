@@ -1,0 +1,5 @@
+$ cd the cmdchallenge
+pwd
+ls
+ls - rl
+clear
