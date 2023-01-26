@@ -3,3 +3,15 @@ pwd
 ls
 ls - rl
 clear
+cd small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+cat trophy.txt
+ls -l *js
+mkdir the-most-funny/not-that-funny
+cp the-mostboring-text.txt lol.txt
+mv funcode/kids.jpg funcode/images/hello/
+rmdir small-name/
+cd funcode/the-most-funny/lol/cat the-ultimate-joke.txt what do you call a programmer from Findland? ..... NERDIC!
+rm -r boringfolder/
+cd kamehameha/cat dragon-ball-jokes.md
+vim dragon-ball-jokes.md
+: wq
